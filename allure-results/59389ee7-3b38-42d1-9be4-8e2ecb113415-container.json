@@ -1,0 +1,1 @@
+{"uuid":"59389ee7-3b38-42d1-9be4-8e2ecb113415","name":"addNewCouponTest()","children":["f41a3a8d-7722-4426-b996-60f62cadab02"],"befores":[],"afters":[{"name":"tearDown","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1581599967422,"stop":1581599967980}],"links":[],"start":1581599951739,"stop":1581599967983}

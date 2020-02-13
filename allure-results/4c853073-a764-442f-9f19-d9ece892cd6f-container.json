@@ -1,0 +1,1 @@
+{"uuid":"4c853073-a764-442f-9f19-d9ece892cd6f","name":"logoutTest()","children":["6e67534c-14e8-4770-af51-4d28eb15ddf0"],"befores":[],"afters":[{"name":"tearDown","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1581599995989,"stop":1581599996542}],"links":[],"start":1581599982790,"stop":1581599996543}

@@ -1,0 +1,128 @@
+{
+  "uid" : "e29b3ed08c530b15",
+  "name" : "searchAndDeleteCouponTest()",
+  "fullName" : "Tests.searchAndDeleteCouponTest",
+  "historyId" : "fc0198a217558df9ab7c12e151231e97",
+  "time" : {
+    "start" : 1581600293941,
+    "stop" : 1581600309026,
+    "duration" : 15085
+  },
+  "description" : "Search and delete coupon test",
+  "descriptionHtml" : "<p>Search and delete coupon test</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1581600263019,
+      "stop" : 1581600263033,
+      "duration" : 14
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1581600308470,
+      "stop" : 1581600309026,
+      "duration" : 556
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "DESKTOP-BG1BNHO"
+  }, {
+    "name" : "thread",
+    "value" : "21048@DESKTOP-BG1BNHO.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "Tests"
+  }, {
+    "name" : "testClass",
+    "value" : "Tests"
+  }, {
+    "name" : "testMethod",
+    "value" : "searchAndDeleteCouponTest"
+  }, {
+    "name" : "suite",
+    "value" : "Tests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "6ab19aa24abbe49b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1581600177466,
+        "stop" : 1581600192330,
+        "duration" : 14864
+      }
+    }, {
+      "uid" : "8f892415bf3a069c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1581600062330,
+        "stop" : 1581600077332,
+        "duration" : 15002
+      }
+    }, {
+      "uid" : "f84edc0479691d04",
+      "status" : "passed",
+      "time" : {
+        "start" : 1581599967988,
+        "stop" : 1581599982787,
+        "duration" : 14799
+      }
+    }, {
+      "uid" : "9748378b51cb005",
+      "status" : "passed",
+      "time" : {
+        "start" : 1581599851160,
+        "stop" : 1581599866292,
+        "duration" : 15132
+      }
+    }, {
+      "uid" : "e4907fbc20bf238f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1581599638439,
+        "stop" : 1581599653701,
+        "duration" : 15262
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e29b3ed08c530b15.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu Feb 13 16:24:23 MSK 2020","Thu Feb 13 16:24:38 MSK 2020","15483","","Tests","","Tests","LoginUserTest","LoginUserTest()","Login User test"
+"passed","Thu Feb 13 16:25:09 MSK 2020","Thu Feb 13 16:25:22 MSK 2020","13045","","Tests","","Tests","logoutTest","logoutTest()","Logout test"
+"passed","Thu Feb 13 16:24:53 MSK 2020","Thu Feb 13 16:25:09 MSK 2020","15085","","Tests","","Tests","searchAndDeleteCouponTest","searchAndDeleteCouponTest()","Search and delete coupon test"
+"passed","Thu Feb 13 16:24:38 MSK 2020","Thu Feb 13 16:24:53 MSK 2020","15277","","Tests","","Tests","addNewCouponTest","addNewCouponTest()","Add new coupon test"

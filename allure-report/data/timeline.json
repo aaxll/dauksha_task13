@@ -1,0 +1,345 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-BG1BNHO",
+    "children" : [ {
+      "name" : "23628@DESKTOP-BG1BNHO.main(1)",
+      "children" : [ {
+        "name" : "addNewCouponTest()",
+        "uid" : "2cb0df4a3b238f75",
+        "parentUid" : "8c399750e89e6ee26d16454c949c1e20",
+        "status" : "passed",
+        "time" : {
+          "start" : 1581599835255,
+          "stop" : 1581599851153,
+          "duration" : 15898
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "LoginUserTest()",
+        "uid" : "b821c4783b7d752d",
+        "parentUid" : "8c399750e89e6ee26d16454c949c1e20",
+        "status" : "passed",
+        "time" : {
+          "start" : 1581599821678,
+          "stop" : 1581599835162,
+          "duration" : 13484
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "logoutTest()",
+        "uid" : "705ca1ef14e8a273",
+        "parentUid" : "8c399750e89e6ee26d16454c949c1e20",
+        "status" : "passed",
+        "time" : {
+          "start" : 1581599866298,
+          "stop" : 1581599878929,
+          "duration" : 12631
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "searchAndDeleteCouponTest()",
+        "uid" : "9748378b51cb005",
+        "parentUid" : "8c399750e89e6ee26d16454c949c1e20",
+        "status" : "passed",
+        "time" : {
+          "start" : 1581599851160,
+          "stop" : 1581599866292,
+          "duration" : 15132
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "8c399750e89e6ee26d16454c949c1e20"
+    }, {
+      "name" : "19844@DESKTOP-BG1BNHO.main(1)",
+      "children" : [ {
+        "name" : "LoginUserTest()",
+        "uid" : "9080e94e7a7807fe",
+        "parentUid" : "de0151071b11067a42b118dd2a9f113d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1581599938331,
+          "stop" : 1581599951651,
+          "duration" : 13320
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "addNewCouponTest()",
+        "uid" : "5c6cda5e0f3a0e1",
+        "parentUid" : "de0151071b11067a42b118dd2a9f113d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1581599951742,
+          "stop" : 1581599967980,
+          "duration" : 16238
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "searchAndDeleteCouponTest()",
+        "uid" : "f84edc0479691d04",
+        "parentUid" : "de0151071b11067a42b118dd2a9f113d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1581599967988,
+          "stop" : 1581599982787,
+          "duration" : 14799
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "logoutTest()",
+        "uid" : "6d73e5e95c193acf",
+        "parentUid" : "de0151071b11067a42b118dd2a9f113d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1581599982793,
+          "stop" : 1581599996542,
+          "duration" : 13749
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "de0151071b11067a42b118dd2a9f113d"
+    }, {
+      "name" : "21048@DESKTOP-BG1BNHO.main(1)",
+      "children" : [ {
+        "name" : "logoutTest()",
+        "uid" : "8d047e5ace335532",
+        "parentUid" : "2355ef7b3369fb4dbce1b16103146787",
+        "status" : "passed",
+        "time" : {
+          "start" : 1581600309032,
+          "stop" : 1581600322077,
+          "duration" : 13045
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "addNewCouponTest()",
+        "uid" : "f4714d6899f5a57d",
+        "parentUid" : "2355ef7b3369fb4dbce1b16103146787",
+        "status" : "passed",
+        "time" : {
+          "start" : 1581600278657,
+          "stop" : 1581600293934,
+          "duration" : 15277
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "LoginUserTest()",
+        "uid" : "52ff386e7657c811",
+        "parentUid" : "2355ef7b3369fb4dbce1b16103146787",
+        "status" : "passed",
+        "time" : {
+          "start" : 1581600263081,
+          "stop" : 1581600278564,
+          "duration" : 15483
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "searchAndDeleteCouponTest()",
+        "uid" : "e29b3ed08c530b15",
+        "parentUid" : "2355ef7b3369fb4dbce1b16103146787",
+        "status" : "passed",
+        "time" : {
+          "start" : 1581600293941,
+          "stop" : 1581600309026,
+          "duration" : 15085
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "2355ef7b3369fb4dbce1b16103146787"
+    }, {
+      "name" : "616@DESKTOP-BG1BNHO.main(1)",
+      "children" : [ {
+        "name" : "logoutTest()",
+        "uid" : "97f710579828f76",
+        "parentUid" : "007f988033ec4dcef911477fb320ae23",
+        "status" : "passed",
+        "time" : {
+          "start" : 1581600192335,
+          "stop" : 1581600207015,
+          "duration" : 14680
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "addNewCouponTest()",
+        "uid" : "99ba04f368893acb",
+        "parentUid" : "007f988033ec4dcef911477fb320ae23",
+        "status" : "passed",
+        "time" : {
+          "start" : 1581600161718,
+          "stop" : 1581600177459,
+          "duration" : 15741
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "LoginUserTest()",
+        "uid" : "be24cf456699f68f",
+        "parentUid" : "007f988033ec4dcef911477fb320ae23",
+        "status" : "passed",
+        "time" : {
+          "start" : 1581600146602,
+          "stop" : 1581600161630,
+          "duration" : 15028
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "searchAndDeleteCouponTest()",
+        "uid" : "6ab19aa24abbe49b",
+        "parentUid" : "007f988033ec4dcef911477fb320ae23",
+        "status" : "passed",
+        "time" : {
+          "start" : 1581600177466,
+          "stop" : 1581600192330,
+          "duration" : 14864
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "007f988033ec4dcef911477fb320ae23"
+    }, {
+      "name" : "8820@DESKTOP-BG1BNHO.main(1)",
+      "children" : [ {
+        "name" : "addNewCouponTest()",
+        "uid" : "2263ab5aeccbe1f1",
+        "parentUid" : "3ea168f9e218ea1fe00a8a69260b25b0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1581599624486,
+          "stop" : 1581599638434,
+          "duration" : 13948
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "LoginUserTest()",
+        "uid" : "bf4acb588c58d45b",
+        "parentUid" : "3ea168f9e218ea1fe00a8a69260b25b0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1581599606300,
+          "stop" : 1581599624397,
+          "duration" : 18097
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "searchAndDeleteCouponTest()",
+        "uid" : "e4907fbc20bf238f",
+        "parentUid" : "3ea168f9e218ea1fe00a8a69260b25b0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1581599638439,
+          "stop" : 1581599653701,
+          "duration" : 15262
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "logoutTest()",
+        "uid" : "681a4f14d23326d8",
+        "parentUid" : "3ea168f9e218ea1fe00a8a69260b25b0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1581599653707,
+          "stop" : 1581599668688,
+          "duration" : 14981
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "3ea168f9e218ea1fe00a8a69260b25b0"
+    }, {
+      "name" : "12624@DESKTOP-BG1BNHO.main(1)",
+      "children" : [ {
+        "name" : "logoutTest()",
+        "uid" : "f393e727038b83b2",
+        "parentUid" : "8e065390eafe5b525543e16d23364738",
+        "status" : "passed",
+        "time" : {
+          "start" : 1581600077338,
+          "stop" : 1581600089881,
+          "duration" : 12543
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "addNewCouponTest()",
+        "uid" : "ed27d58957f17f26",
+        "parentUid" : "8e065390eafe5b525543e16d23364738",
+        "status" : "passed",
+        "time" : {
+          "start" : 1581600048421,
+          "stop" : 1581600062324,
+          "duration" : 13903
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "LoginUserTest()",
+        "uid" : "a9eb83070544a820",
+        "parentUid" : "8e065390eafe5b525543e16d23364738",
+        "status" : "passed",
+        "time" : {
+          "start" : 1581600033564,
+          "stop" : 1581600048334,
+          "duration" : 14770
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "searchAndDeleteCouponTest()",
+        "uid" : "8f892415bf3a069c",
+        "parentUid" : "8e065390eafe5b525543e16d23364738",
+        "status" : "passed",
+        "time" : {
+          "start" : 1581600062330,
+          "stop" : 1581600077332,
+          "duration" : 15002
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "8e065390eafe5b525543e16d23364738"
+    } ],
+    "uid" : "b433da4a78cc04c2423ace45c490517f"
+  } ]
+}

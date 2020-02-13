@@ -1,0 +1,41 @@
+[ {
+  "uid" : "e29b3ed08c530b15",
+  "name" : "searchAndDeleteCouponTest()",
+  "time" : {
+    "start" : 1581600293941,
+    "stop" : 1581600309026,
+    "duration" : 15085
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f4714d6899f5a57d",
+  "name" : "addNewCouponTest()",
+  "time" : {
+    "start" : 1581600278657,
+    "stop" : 1581600293934,
+    "duration" : 15277
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "52ff386e7657c811",
+  "name" : "LoginUserTest()",
+  "time" : {
+    "start" : 1581600263081,
+    "stop" : 1581600278564,
+    "duration" : 15483
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8d047e5ace335532",
+  "name" : "logoutTest()",
+  "time" : {
+    "start" : 1581600309032,
+    "stop" : 1581600322077,
+    "duration" : 13045
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

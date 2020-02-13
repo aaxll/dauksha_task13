@@ -1,0 +1,13 @@
+[ {
+  "values" : [ "2.13.1" ],
+  "name" : "allure-junit5.version"
+}, {
+  "values" : [ "Windows 10 Pro x64" ],
+  "name" : "OS.version"
+}, {
+  "values" : [ "Apache Maven 3.6.2" ],
+  "name" : "MAVEN.version"
+}, {
+  "values" : [ "jdk1.8.0_231" ],
+  "name" : "JDK.version"
+} ]
